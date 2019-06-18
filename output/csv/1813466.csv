@@ -1,0 +1,47 @@
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+1,onGoing,2019-06-15T18:08:29.454Z,2019-06-09T13:34:10.369Z,0,76
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,Poirier de Chine,,,non,4.393694609011872,45.42636934089622,,non,non
+VERIFY,Poirier de Chine,,,non,4.393694609011872,45.42636934089622,Peu confiant,non,non
+VERIFY,Poirier de Chine,,,non,4.393694609011872,45.42636934089622,Peu confiant,non,non
+INVENTORY,Érable de Montpellier,,,oui,3.2101390317149874,47.359913770604166,Peu confiant,non,non
+VERIFY,Érable champêtre,,,oui,3.2101390317149874,47.359913770604166,Peu confiant,non,non
+VERIFY,Érable champêtre,,,oui,3.2101390317149874,47.359913770604166,Peu confiant,non,non
+VERIFY,Érable champêtre,Acer pseudoplatanus,Acer,oui,3.2101390317149874,47.359913770604166,Peu confiant,non,non
+INVENTORY,Pommier commun,,,oui,3.209517896175385,47.360279089824964,Confiant,non,non
+INVENTORY,,Prunus domestica,,oui,3.2101187109947205,47.359973851230144,Peu confiant,non,non
+INVENTORY,Érable champêtre,Acer campestre,Acer,oui,3.2097083330154423,47.36020459723555,Confiant,non,non
+INVENTORY,Poirier,Pyrus communis,Pyrus,non,3.2096466422081,47.360131921437215,Peu confiant,non,non
+INVENTORY,Prunier,Prunus domestica,,oui,3.209670782089234,47.35995568221049,,non,non
+INVENTORY,Érable champêtre,Acer campestre,Acer,oui,3.210161626338959,47.35992297795932,Confiant,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+2,toDo,2019-06-09T13:34:10.210Z,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+VERIFY,Érable champêtre,Acer campestre,Acer,oui,3.2101390317149874,47.359913770604166,Confiant,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+3,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+4,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation,Nom commun expert,Espece expert,Genre expert
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+5,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Mécaniques de jeu,Etat
+"Trophée 1 activité, c’est un bon début",Obtenu
+Trophée C’est mieux à 2,Non obtenu
+Trophée Jamais 2 sans 3,Non obtenu
+Trophée Les 4 activités de l'apocalypse,Non obtenu
+Trophée Une mission qui se déroule sans accroc,Non obtenu
+Statut Voyageur,Activité 0
+Statut Voyageur confirmé,Non obtenu
+Statut Voyageur expérimenté,Non obtenu
+Statut Curieux des bois,Non obtenu
+Statut Explorateur de la forêt,Non obtenu
+Statut Routard des étendues forestières,Non obtenu
+Statut Observateur attenboisé,Non obtenu
+Statut Explorateur-botaniste aguerri,Non obtenu
+Statut Maître explorateur botaniste,Non obtenu
+Statut Oeil d'aigle des arbres,Non obtenu
+Statut Archéologue botaniste,Non obtenu
+Statut Grand maître arbalétiste,Non obtenu

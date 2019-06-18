@@ -1,0 +1,49 @@
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+1,done,2019-06-14T20:13:22.825Z,2019-06-18T11:22:18.460Z,0,62
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,Sapin du Colorado,Abies alba,Ailanthus,non,6.3637393712997445,46.90349730932858,,non,non
+INVENTORY,,,,non,6.3636846,46.9033733,Non renseignée,non,non
+INVENTORY,,,,non,6.363294124603272,46.90326823839802,,non,non
+INVENTORY,,Acer campestre,,non,6.363076865673066,46.90316011657879,,non,non
+INVENTORY,,Acer monspessulanum,,non,6.363433599472047,46.903440499829074,,non,non
+INVENTORY,Sapin,Abies alba,,non,6.363345426834015,46.90392606315583,,non,non
+INVENTORY,,,,non,6.364943683147431,46.90461882647716,,non,non
+INVENTORY,Sapin de Californie,Abies alba,Aesculus,non,-0.7593571885347662,48.08599710482249,,non,non
+INVENTORY,Sapin du Colorado,Abies alba,Ailanthus,non,-0.75973542726826,48.085873441602004,,non,non
+INVENTORY,Sapin d'Espagne,Abies concolor,Ailanthus,non,-0.7604006982321178,48.08603115696143,,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+2,done,2019-06-18T11:22:18.444Z,2019-06-18T11:23:08.624Z,0,12
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,,,Ailanthus,non,-0.7600948881922864,48.08586089604126,,non,non
+INVENTORY,,,Albizia,non,-0.7596766948699952,48.08621053375009,,non,non
+INVENTORY,,,Broussonetia,non,-0.7593655586242677,48.08631445496679,,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+3,done,2019-06-18T11:23:08.593Z,2019-06-18T11:23:55.397Z,0,6
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+VERIFY,,,,non,-0.7559189200401307,48.08520893746663,Non renseignée,non,oui
+VERIFY,,,Ailanthus,non,-0.7563972473008108,48.085352877089406,Non renseignée,non,non
+VERIFY,,,Alnus,non,-0.7560709118774868,48.084808174057166,Non renseignée,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+4,onGoing,2019-06-18T11:23:55.333Z,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation,Nom commun expert,Espece expert,Genre expert
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+5,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Mécaniques de jeu,Etat
+"Trophée 1 activité, c’est un bon début",Obtenu
+Trophée C’est mieux à 2,Obtenu
+Trophée Jamais 2 sans 3,Obtenu
+Trophée Les 4 activités de l'apocalypse,Non obtenu
+Trophée Une mission qui se déroule sans accroc,Non obtenu
+Statut Voyageur,Activité 1
+Statut Voyageur confirmé,Non obtenu
+Statut Voyageur expérimenté,Non obtenu
+Statut Curieux des bois,Non obtenu
+Statut Explorateur de la forêt,Non obtenu
+Statut Routard des étendues forestières,Non obtenu
+Statut Observateur attenboisé,Non obtenu
+Statut Explorateur-botaniste aguerri,Non obtenu
+Statut Maître explorateur botaniste,Non obtenu
+Statut Oeil d'aigle des arbres,Non obtenu
+Statut Archéologue botaniste,Non obtenu
+Statut Grand maître arbalétiste,Non obtenu

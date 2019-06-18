@@ -1,0 +1,37 @@
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+1,onGoing,2019-06-10T06:39:55.043Z,2019-06-10T06:39:45.903Z,0,16
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,,,,non,6.363570392131806,46.90369705838111,,non,non
+INVENTORY,,,,non,6.363291442394257,46.9035926025474,,non,non
+INVENTORY,,,,non,6.363688409328462,46.90357061181962,,non,non
+INVENTORY,Sapin du Colorado,Abies concolor,Aesculus,non,6.362529878385283,46.90322215031724,Peu confiant,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+2,toDo,2019-06-10T06:39:45.857Z,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+3,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+4,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation,Nom commun expert,Espece expert,Genre expert
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+5,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Mécaniques de jeu,Etat
+Trophée 1,Non obtenu
+Trophée 2,Non obtenu
+Trophée 3,Non obtenu
+Trophée 4,Non obtenu
+Trophée 5,Non obtenu
+Statut Voyageur,Non obtenu
+Statut Voyageur confirmé,Non obtenu
+Statut Voyageur expérimenté,Non obtenu
+Statut Curieux des bois,Non obtenu
+Statut Explorateur de la forêt,Non obtenu
+Statut Routard des étendues forestières,Non obtenu
+Statut Observateur attenboisé,Non obtenu
+Statut Explorateur-botaniste aguerri,Non obtenu
+Statut Maître explorateur botaniste,Non obtenu
+Statut Oeil d'aigle des arbres,Non obtenu
+Statut Archéologue botaniste,Non obtenu
+Statut Grand maître arbalétiste,Non obtenu

@@ -1,0 +1,35 @@
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+1,onGoing,2019-06-05T14:07:17.423Z,,5,1
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,,,,non,2.358794,48.848197,Non renseignée,non,non
+VERIFY,,,,non,2.358794,48.848197,Non renseignée,oui,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+2,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+3,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+4,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation,Nom commun expert,Espece expert,Genre expert
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+5,toDo,,,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Mécaniques de jeu,Etat
+Trophée 1,Non obtenu
+Trophée 2,Non obtenu
+Trophée 3,Non obtenu
+Trophée 4,Non obtenu
+Trophée 5,Non obtenu
+Statut Voyageur,Non obtenu
+Statut Voyageur confirmé,Non obtenu
+Statut Voyageur expérimenté,Non obtenu
+Statut Curieux des bois,Non obtenu
+Statut Explorateur de la forêt,Non obtenu
+Statut Routard des étendues forestières,Non obtenu
+Statut Observateur attenboisé,Non obtenu
+Statut Explorateur-botaniste aguerri,Non obtenu
+Statut Maître explorateur botaniste,Non obtenu
+Statut Oeil d'aigle des arbres,Non obtenu
+Statut Archéologue botaniste,Non obtenu
+Statut Grand maître arbalétiste,Non obtenu

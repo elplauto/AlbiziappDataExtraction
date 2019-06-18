@@ -1,0 +1,50 @@
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+1,onGoing,2019-06-18T08:06:06.574Z,2019-06-18T08:00:58.657Z,0,1
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,,,,non,0.15943050384521487,48.012635436474795,,non,non
+INVENTORY,,,,non,0.16016006469726565,48.01033867041584,,non,non
+INVENTORY,,,,non,0.15955924987792972,48.01091287152064,,non,non
+INVENTORY,,,,non,0.1589155197143555,48.01163061391092,,non,non
+INVENTORY,,,,non,0.16088962554931643,48.0116880328706,,non,non
+INVENTORY,,,,non,0.15149116516113284,48.0133926291131,,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+2,toDo,2019-06-18T08:00:58.621Z,2019-06-18T08:01:00.221Z,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+INVENTORY,,,,non,0.1604175567626953,48.01191770806993,,non,non
+INVENTORY,,,,non,0.15908718109130862,48.01028124995374,,non,non
+INVENTORY,,,Acer,non,0.16011714935302737,48.00875958441183,,non,non
+INVENTORY,,,Aesculus,non,0.1586580276489258,48.00910411639101,,non,non
+INVENTORY,,,Ailanthus,non,0.15771389007568362,48.008817006568194,,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+3,toDo,2019-06-18T08:01:00.174Z,2019-06-18T08:01:02.273Z,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+VERIFY,,,Aesculus,non,0.15857219696044925,48.01447277567082,Non renseignée,non,oui
+VERIFY,,,Ailanthus,non,0.1568126678466797,48.01530529844063,Non renseignée,oui,non
+VERIFY,,Abies alba,Ailanthus,non,0.1568126678466797,48.01530529844063,Non renseignée,non,non
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+4,toDo,2019-06-18T08:01:02.231Z,2019-06-18T08:01:27.948Z,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation,Nom commun expert,Espece expert,Genre expert
+IDENTIFY,,,,oui,0.15526085172355764,48.01548568247991,N/A,N/A,N/A,Sapin,Abies alba,Acer
+IDENTIFY,,,,oui,0.1547753200287083,48.01493760220584,N/A,N/A,N/A,,Abies alba,
+IDENTIFY,Sapin,Abies alba,Acer,oui,0.15480566575963642,48.01551613121322,N/A,N/A,N/A,,,
+Activité,Statut,Date début,Date fin,Points de connaissance,Points d'exploration
+5,toDo,2019-06-18T08:01:27.936Z,2019-06-07T07:34:56.805Z,0,0
+Type,Nom commun,Espece,Genre,Photo,Longitude,Latitude,Taux de confiance,Mettre en doute,Confirmation
+Mécaniques de jeu,Etat
+"Trophée 1 activité, c’est un bon début",Obtenu
+Trophée C’est mieux à 2,Obtenu
+Trophée Jamais 2 sans 3,Obtenu
+Trophée Les 4 activités de l'apocalypse,Obtenu
+Trophée Une mission qui se déroule sans accroc,Obtenu
+Statut Voyageur,Non obtenu
+Statut Voyageur confirmé,Non obtenu
+Statut Voyageur expérimenté,Non obtenu
+Statut Curieux des bois,Non obtenu
+Statut Explorateur de la forêt,Non obtenu
+Statut Routard des étendues forestières,Non obtenu
+Statut Observateur attenboisé,Non obtenu
+Statut Explorateur-botaniste aguerri,Non obtenu
+Statut Maître explorateur botaniste,Non obtenu
+Statut Oeil d'aigle des arbres,Non obtenu
+Statut Archéologue botaniste,Non obtenu
+Statut Grand maître arbalétiste,Non obtenu
