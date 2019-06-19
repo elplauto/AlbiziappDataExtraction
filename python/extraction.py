@@ -44,7 +44,7 @@ def new_observation (trace, releves):
 
     if 'activity' in trace.keys():
 
-        releve = [None for i in range(10)]
+        releve = [None for i in range(11)]
 
         index = trace['activity']['index']
 
@@ -57,7 +57,7 @@ def new_observation (trace, releves):
 
 def verify_observation(trace, releves):
 
-    releve = [None for i in range(10)]
+    releve = [None for i in range(11)]
     index = trace['activity']['index']
     releve[0] = 'VERIFY'
     extract_releve_data(releve,trace)
@@ -65,35 +65,35 @@ def verify_observation(trace, releves):
 
 def identification(trace, releves):
 
-    releve = releve = [None for i in range(13)]
+    releve = [None for i in range(14)]
     index = trace['activity']['index']
     releve[0] = 'IDENTIFY'
 
     if 'common' in trace['object']['identificationValue']:
-        releve[1] = trace['object']['identificationValue']['common']
+        releve[2] = trace['object']['identificationValue']['common']
 
     if 'specie' in trace['object']['identificationValue']:
-        releve[2] = trace['object']['identificationValue']['specie']
+        releve[3] = trace['object']['identificationValue']['specie']
 
     if 'genus' in trace['object']['identificationValue']:
-        releve[3] = trace['object']['identificationValue']['genus']
+        releve[4] = trace['object']['identificationValue']['genus']
 
-    releve[4] = 'oui' if 'image' in trace['object']['identificationValue'] else 'non'
-    releve[5] = trace['object']['location']['coordinates'][0]
-    releve[6] = trace['object']['location']['coordinates'][1]
+    releve[5] = 'oui' if 'image' in trace['object']['identificationValue'] else 'non'
+    releve[6] = trace['object']['location']['coordinates'][0]
+    releve[7] = trace['object']['location']['coordinates'][1]
 
-    releve[7] = 'N/A'
     releve[8] = 'N/A'
     releve[9] = 'N/A'
+    releve[10] = 'N/A'
 
     if 'common' in trace['object']:
-        releve[10] = trace['object']['common']
+        releve[11] = trace['object']['common']
 
     if 'specie' in trace['object']:
-        releve[11] = trace['object']['specie']
+        releve[12] = trace['object']['specie']
 
     if 'genus' in trace['object']:
-        releve[12] = trace['object']['genus']
+        releve[13] = trace['object']['genus']
 
     releves[index].append(releve)
 
@@ -140,24 +140,27 @@ def new_trophy(trace, trophies):
 
 def extract_releve_data(releve, trace):
 
+    if 'date' in trace:
+        releve[1] = trace['date']
+
     if 'common' in trace['object']:
-        releve[1] = trace['object']['common']
+        releve[2] = trace['object']['common']
 
     if 'specie' in trace['object']:
-        releve[2] = trace['object']['specie']
+        releve[3] = trace['object']['specie']
 
     if 'genus' in trace['object']:
-        releve[3] = trace['object']['genus']
+        releve[4] = trace['object']['genus']
 
-    releve[4] = 'oui' if 'image' in trace['object'] else 'non'
-    releve[5] = trace['object']['location']['coordinates'][0]    
-    releve[6] = trace['object']['location']['coordinates'][1]
+    releve[5] = 'oui' if 'image' in trace['object'] else 'non'
+    releve[6] = trace['object']['location']['coordinates'][0]    
+    releve[7] = trace['object']['location']['coordinates'][1]
 
     if 'confidence' in trace['object']:
-        releve[7] = trace['object']['confidence']
+        releve[8] = trace['object']['confidence']
 
-    releve[8] = 'oui' if trace['event'] == 'questionTree' else 'non'
-    releve[9] = 'oui' if trace['event'] == 'validateObservation' else 'non'
+    releve[9] = 'oui' if trace['event'] == 'questionTree' else 'non'
+    releve[10] = 'oui' if trace['event'] == 'validateObservation' else 'non'
 
 
 def score_by_activity(activities):
@@ -249,6 +252,7 @@ def main(args):
                  "Points d'exploration"]
 
     ligne_releve = ["Type",
+                    "Date",
                     "Nom commun",
                     "Espece",
                     "Genre",
